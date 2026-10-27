@@ -1,0 +1,29 @@
+{
+ "n_test": 1517,
+ "n_mi": 553,
+ "deletion": {
+  "n": 553,
+  "mean_drop_top": -0.012331239422101185,
+  "mean_drop_random": -0.0026895509309440204,
+  "median_drop_top": -0.0003280043601989746,
+  "median_drop_random": 0.00027042627334594727,
+  "frac_top_greater": 0.3508137432188065,
+  "wilcoxon_p": 1.127199835891742e-08
+ },
+ "territory": {
+  "n_inferior": 238,
+  "n_anterior": 198,
+  "inferior_share_in_inferior_mi": 0.30402629433616496,
+  "inferior_share_in_anterior_mi": 0.18213277211120912,
+  "anterior_share_in_inferior_mi": 0.20510346106134292,
+  "anterior_share_in_anterior_mi": 0.4614569081291288,
+  "p_inferior_leads": 1.4981293171616216e-23,
+  "p_anterior_leads": 2.0930667800107625e-31,
+  "uniform_inferior": 0.25,
+  "uniform_anterior": 0.3333333333333333
+ },
+ "trace": {
+  "mean_cam_mass_on_trace": 0.03184565000879026,
+  "mean_trace_pixel_fraction": 0.034273109478629944
+ }
+}

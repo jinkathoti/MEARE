@@ -1,0 +1,2655 @@
+[
+ {
+  "n": 1,
+  "title": "An Extensive Dataset for the Heart Disease Classification System",
+  "year": 2022,
+  "doi": "10.17632/65gxgy2nmg.2",
+  "first_author": "Maghdid",
+  "ok": false,
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "n": 2,
+  "title": "PTB-XL, a large publicly available electrocardiography dataset",
+  "year": 2020,
+  "doi": "10.1038/s41597-020-0495-6",
+  "first_author": "Wagner",
+  "crossref_title": "PTB-XL, a large publicly available electrocardiography dataset",
+  "crossref_year": 2020,
+  "crossref_doi": "10.1038/s41597-020-0495-6",
+  "sim": 1.0,
+  "container": "Scientific Data",
+  "authors": [
+   [
+    "Patrick",
+    "Wagner"
+   ],
+   [
+    "Nils",
+    "Strodthoff"
+   ],
+   [
+    "Ralf-Dieter",
+    "Bousseljot"
+   ],
+   [
+    "Dieter",
+    "Kreiseler"
+   ],
+   [
+    "Fatima I.",
+    "Lunze"
+   ],
+   [
+    "Wojciech",
+    "Samek"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 3,
+  "title": "Deep Learning for ECG Analysis: Benchmarks and Insights from PTB-XL",
+  "year": 2020,
+  "doi": "10.1109/JBHI.2020.3022989",
+  "first_author": "Strodthoff",
+  "crossref_title": "Deep Learning for ECG Analysis: Benchmarks and Insights from PTB-XL",
+  "crossref_year": 2021,
+  "crossref_doi": "10.1109/jbhi.2020.3022989",
+  "sim": 1.0,
+  "container": "IEEE Journal of Biomedical and Health Informatics",
+  "authors": [
+   [
+    "Nils",
+    "Strodthoff"
+   ],
+   [
+    "Patrick",
+    "Wagner"
+   ],
+   [
+    "Tobias",
+    "Schaeffter"
+   ],
+   [
+    "Wojciech",
+    "Samek"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 4,
+  "title": "Accurate predictions on small data with a tabular foundation model",
+  "year": 2025,
+  "doi": "10.1038/s41586-024-08328-6",
+  "first_author": "Hollmann",
+  "crossref_title": "Accurate predictions on small data with a tabular foundation model",
+  "crossref_year": 2025,
+  "crossref_doi": "10.1038/s41586-024-08328-6",
+  "sim": 1.0,
+  "container": "Nature",
+  "authors": [
+   [
+    "Noah",
+    "Hollmann"
+   ],
+   [
+    "Samuel",
+    "Müller"
+   ],
+   [
+    "Lennart",
+    "Purucker"
+   ],
+   [
+    "Arjun",
+    "Krishnakumar"
+   ],
+   [
+    "Max",
+    "Körfer"
+   ],
+   [
+    "Shi Bin",
+    "Hoo"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 5,
+  "title": "Evaluation of raw signal and feature-based deep learning models for multi-label ECG diagnosis on PTB-XL",
+  "year": 2026,
+  "doi": "10.1007/978-3-032-11442-6_36",
+  "first_author": "Holloway",
+  "crossref_title": "Evaluation of Raw Signal and Feature-Based Deep Learning Models for Multi-Label ECG Diagnosis on PTB-XL",
+  "crossref_year": 2025,
+  "crossref_doi": "10.1007/978-3-032-11442-6_36",
+  "sim": 1.0,
+  "container": "Lecture Notes in Computer Science",
+  "authors": [
+   [
+    "Calvin",
+    "Holloway"
+   ],
+   [
+    "Lakshmi Babu",
+    "Saheer"
+   ],
+   [
+    "Mahdi Maktab",
+    "Dar"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 6,
+  "title": "A hybrid ResNet-ViT approach to bridge the global and local features for myocardial infarction detection",
+  "year": 2024,
+  "doi": "10.1038/s41598-024-54846-8",
+  "first_author": "Wahid",
+  "crossref_title": "A hybrid ResNet-ViT approach to bridge the global and local features for myocardial infarction detection",
+  "crossref_year": 2024,
+  "crossref_doi": "10.1038/s41598-024-54846-8",
+  "sim": 1.0,
+  "container": "Scientific Reports",
+  "authors": [
+   [
+    "Junaid Abdul",
+    "Wahid"
+   ],
+   [
+    "Xu",
+    "Mingliang"
+   ],
+   [
+    "Muhammad",
+    "Ayoub"
+   ],
+   [
+    "Shabir",
+    "Husssain"
+   ],
+   [
+    "Lifeng",
+    "Li"
+   ],
+   [
+    "Lei",
+    "Shi"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 7,
+  "title": "Preliminary study based on myocardial infarction classification of 12-lead electrocardiography images with deep learning methods",
+  "year": 2024,
+  "doi": "10.56038/ejrnd.v4i1.421",
+  "first_author": "Latifoğlu",
+  "crossref_title": "Preliminary Study Based on Myocardial Infarction Classification of 12-Lead Electrocardiography Images with Deep Learning Methods",
+  "crossref_year": 2024,
+  "crossref_doi": "10.56038/ejrnd.v4i1.421",
+  "sim": 1.0,
+  "container": "The European Journal of Research and Development",
+  "authors": [
+   [
+    "Fatma",
+    "Latifoğlu"
+   ],
+   [
+    "Aigul",
+    "Zhusupova"
+   ],
+   [
+    "Merve",
+    "İnce"
+   ],
+   [
+    "Nermin Aybike",
+    "Ertürk"
+   ],
+   [
+    "Berat",
+    "Özdet"
+   ],
+   [
+    "Semra",
+    "İçer"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 8,
+  "title": "Enhancing clinical decision support with physiological waveforms: a multimodal benchmark in emergency care",
+  "year": 2025,
+  "doi": "10.1016/j.compbiomed.2025.110196",
+  "first_author": "Alcaraz",
+  "crossref_title": "Enhancing clinical decision support with physiological waveforms — A multimodal benchmark in emergency care",
+  "crossref_year": 2025,
+  "crossref_doi": "10.1016/j.compbiomed.2025.110196",
+  "sim": 0.995,
+  "container": "Computers in Biology and Medicine",
+  "authors": [
+   [
+    "Juan Miguel Lopez",
+    "Alcaraz"
+   ],
+   [
+    "Hjalmar",
+    "Bouma"
+   ],
+   [
+    "Nils",
+    "Strodthoff"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 9,
+  "title": "Artificial intelligence-enabled electrocardiogram for mortality and cardiovascular risk estimation: a model development and validation study",
+  "year": 2024,
+  "doi": "10.1016/S2589-7500(24)00172-9",
+  "first_author": "Sau",
+  "crossref_title": "Artificial intelligence-enabled electrocardiogram for mortality and cardiovascular risk estimation: a model development and validation study",
+  "crossref_year": 2024,
+  "crossref_doi": "10.1016/s2589-7500(24)00172-9",
+  "sim": 1.0,
+  "container": "The Lancet Digital Health",
+  "authors": [
+   [
+    "Arunashis",
+    "Sau"
+   ],
+   [
+    "Libor",
+    "Pastika"
+   ],
+   [
+    "Ewa",
+    "Sieliwonczyk"
+   ],
+   [
+    "Konstantinos",
+    "Patlatzoglou"
+   ],
+   [
+    "Antônio H",
+    "Ribeiro"
+   ],
+   [
+    "Kathryn A",
+    "McGurk"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 10,
+  "title": "A multitask deep learning model utilizing electrocardiograms for major cardiovascular adverse events prediction",
+  "year": 2025,
+  "doi": "10.1038/s41746-024-01410-3",
+  "first_author": "Lin",
+  "crossref_title": "A multitask deep learning model utilizing electrocardiograms for major cardiovascular adverse events prediction",
+  "crossref_year": 2025,
+  "crossref_doi": "10.1038/s41746-024-01410-3",
+  "sim": 1.0,
+  "container": "npj Digital Medicine",
+  "authors": [
+   [
+    "Ching-Heng",
+    "Lin"
+   ],
+   [
+    "Zhi-Yong",
+    "Liu"
+   ],
+   [
+    "Pao-Hsien",
+    "Chu"
+   ],
+   [
+    "Jung-Sheng",
+    "Chen"
+   ],
+   [
+    "Hsin-Hsu",
+    "Wu"
+   ],
+   [
+    "Ming-Shien",
+    "Wen"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 11,
+  "title": "Enhancing cardiac disease prediction with explainable bidirectional LSTM",
+  "year": 2025,
+  "doi": "10.1038/s41598-025-25071-8",
+  "first_author": "Lipsa",
+  "crossref_title": "Enhancing cardiac disease prediction with explainable bidirectional LSTM",
+  "crossref_year": 2025,
+  "crossref_doi": "10.1038/s41598-025-25071-8",
+  "sim": 1.0,
+  "container": "Scientific Reports",
+  "authors": [
+   [
+    "Swati",
+    "Lipsa"
+   ],
+   [
+    "Ranjan Kumar",
+    "Dash"
+   ],
+   [
+    "Subhra",
+    "Debdas"
+   ],
+   [
+    "Korhan",
+    "Cengiz"
+   ],
+   [
+    "Pankaj",
+    "Kumar"
+   ],
+   [
+    "Nitai",
+    "Pal"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 12,
+  "title": "Explainable artificial intelligence in electrocardiography: A systematic review",
+  "year": 2025,
+  "doi": "10.1016/j.bspc.2025.109325",
+  "first_author": "Taleban",
+  "crossref_title": "Explainable artificial intelligence in electrocardiography: A systematic review",
+  "crossref_year": 2026,
+  "crossref_doi": "10.1016/j.bspc.2025.109325",
+  "sim": 1.0,
+  "container": "Biomedical Signal Processing and Control",
+  "authors": [
+   [
+    "Amirsajjad",
+    "Taleban"
+   ],
+   [
+    "Rodney",
+    "Sparapani"
+   ],
+   [
+    "Patrick",
+    "Noffke"
+   ],
+   [
+    "Sharone",
+    "Zlochiver"
+   ],
+   [
+    "Qiang",
+    "Lu"
+   ],
+   [
+    "Michael E.",
+    "Widlansky"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 13,
+  "title": "Multimodal deep learning for acute myocardial infarction detection from 12-lead electrocardiogram: a multi-centre study with cross-hospital validation",
+  "year": 2026,
+  "doi": "10.1093/ehjdh/ztaf125",
+  "first_author": "Gupta",
+  "crossref_title": "Multimodal deep learning for acute myocardial infarction detection from 12-lead electrocardiogram: a multi-centre study with cross-hospital validation",
+  "crossref_year": 2025,
+  "crossref_doi": "10.1093/ehjdh/ztaf125",
+  "sim": 1.0,
+  "container": "European Heart Journal - Digital Health",
+  "authors": [
+   [
+    "Vibha",
+    "Gupta"
+   ],
+   [
+    "Lukas",
+    "Hilgendorf"
+   ],
+   [
+    "Erik",
+    "Andersson"
+   ],
+   [
+    "Antros",
+    "Louca"
+   ],
+   [
+    "Arman",
+    "Shahmari"
+   ],
+   [
+    "Alfred",
+    "Hjalmarsson"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 14,
+  "title": "Clinical usability of deep learning-based saliency maps for occlusion myocardial infarction identification from the prehospital 12-Lead electrocardiogram",
+  "year": 2024,
+  "doi": "10.1016/j.jelectrocard.2024.153792",
+  "first_author": "Riek",
+  "crossref_title": "Clinical usability of deep learning-based saliency maps for occlusion myocardial infarction identification from the prehospital 12-Lead electrocardiogram",
+  "crossref_year": 2024,
+  "crossref_doi": "10.1016/j.jelectrocard.2024.153792",
+  "sim": 1.0,
+  "container": "Journal of Electrocardiology",
+  "authors": [
+   [
+    "Nathan T.",
+    "Riek"
+   ],
+   [
+    "Tanmay A.",
+    "Gokhale"
+   ],
+   [
+    "Christian",
+    "Martin-Gill"
+   ],
+   [
+    "Karina",
+    "Kraevsky-Philips"
+   ],
+   [
+    "Jessica K.",
+    "Zègre-Hemsey"
+   ],
+   [
+    "Samir",
+    "Saba"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 15,
+  "title": "Clinical knowledge-based ECG abnormalities detection using dual-view CNN-transformer and external attention mechanism",
+  "year": 2024,
+  "doi": "10.1016/j.compbiomed.2024.108751",
+  "first_author": "Li",
+  "crossref_title": "Clinical knowledge-based ECG abnormalities detection using dual-view CNN-Transformer and external attention mechanism",
+  "crossref_year": 2024,
+  "crossref_doi": "10.1016/j.compbiomed.2024.108751",
+  "sim": 1.0,
+  "container": "Computers in Biology and Medicine",
+  "authors": [
+   [
+    "Hui",
+    "Li"
+   ],
+   [
+    "Jiyang",
+    "Han"
+   ],
+   [
+    "Honghao",
+    "Zhang"
+   ],
+   [
+    "Xi",
+    "Zhang"
+   ],
+   [
+    "Yingjun",
+    "Si"
+   ],
+   [
+    "Yu",
+    "Zhang"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 16,
+  "title": "Multimodal fusion of EHR and ECG based on deep learning for predicting new-onset coronary heart disease in cancer patients",
+  "year": 2026,
+  "doi": "10.3389/fcvm.2026.1834641",
+  "first_author": "Zhang",
+  "crossref_title": "Multimodal fusion of EHR and ECG based on deep learning for predicting new-onset coronary heart disease in cancer patients",
+  "crossref_year": 2026,
+  "crossref_doi": "10.3389/fcvm.2026.1834641",
+  "sim": 1.0,
+  "container": "Frontiers in Cardiovascular Medicine",
+  "authors": [
+   [
+    "Sheng",
+    "Zhang"
+   ],
+   [
+    "Wei",
+    "Wang"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 17,
+  "title": "Machine learning for myocardial infarction compared with guideline-recommended diagnostic pathways",
+  "year": 2024,
+  "doi": "10.1161/CIRCULATIONAHA.123.066917",
+  "first_author": "Boeddinghaus",
+  "crossref_title": "Machine Learning for Myocardial Infarction Compared With Guideline-Recommended Diagnostic Pathways",
+  "crossref_year": 2024,
+  "crossref_doi": "10.1161/circulationaha.123.066917",
+  "sim": 1.0,
+  "container": "Circulation",
+  "authors": [
+   [
+    "Jasper",
+    "Boeddinghaus"
+   ],
+   [
+    "Dimitrios",
+    "Doudesis"
+   ],
+   [
+    "Pedro",
+    "Lopez-Ayala"
+   ],
+   [
+    "Kuan Ken",
+    "Lee"
+   ],
+   [
+    "Luca",
+    "Koechlin"
+   ],
+   [
+    "Karin",
+    "Wildi"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 18,
+  "title": "Multi-level explainable AI for ECG-based atrial fibrillation detection: exploring LIME, SHAP, and Grad-CAM for clinical interpretation",
+  "year": 2025,
+  "doi": "10.1145/3761712.3761721",
+  "first_author": "Luo",
+  "crossref_title": "Multi-Level Explainable AI for ECG-Based Atrial Fibrillation Detection: Exploring LIME, SHAP, and Grad-CAM for Clinical Interpretation",
+  "crossref_year": 2025,
+  "crossref_doi": "10.1145/3761712.3761721",
+  "sim": 1.0,
+  "container": "Proceedings of the 2025 9th International Conference on Medical and Health Informatics",
+  "authors": [
+   [
+    "Jake",
+    "Luo"
+   ],
+   [
+    "Amirsajjad",
+    "Taleban"
+   ],
+   [
+    "Patrick",
+    "Noffke"
+   ],
+   [
+    "Rodney",
+    "Sparapani"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 19,
+  "title": "Explainable deep learning based techniques for ECG-based heart disease classification: a systematic literature review and future direction",
+  "year": 2025,
+  "doi": "10.1016/j.compbiomed.2025.111324",
+  "first_author": "Manimaran",
+  "crossref_title": "Explainable deep learning based techniques for ECG-Based heart disease classification: A systematic literature review and future direction",
+  "crossref_year": 2025,
+  "crossref_doi": "10.1016/j.compbiomed.2025.111324",
+  "sim": 1.0,
+  "container": "Computers in Biology and Medicine",
+  "authors": [
+   [
+    "Gouthamaan",
+    "Manimaran"
+   ],
+   [
+    "Abdolrahman",
+    "Peimankar"
+   ],
+   [
+    "Sadasivan",
+    "Puthusserypady"
+   ],
+   [
+    "Mahdi",
+    "Momeni"
+   ],
+   [
+    "Rifa Atul Izza",
+    "Asyari"
+   ],
+   [
+    "Masud Shah",
+    "Jahan"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 20,
+  "title": "Web-based cardiovascular disease risk prediction using machine learning",
+  "year": 2026,
+  "doi": "10.3389/frai.2026.1690664",
+  "first_author": "Akhter",
+  "crossref_title": "Web-based cardiovascular disease risk prediction using machine learning",
+  "crossref_year": 2026,
+  "crossref_doi": "10.3389/frai.2026.1690664",
+  "sim": 1.0,
+  "container": "Frontiers in Artificial Intelligence",
+  "authors": [
+   [
+    "Suraiya",
+    "Akhter"
+   ],
+   [
+    "John H.",
+    "Miller"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 21,
+  "title": "An explainable machine learning framework for cardiovascular risk prediction using structured health data",
+  "year": 2026,
+  "doi": "10.3389/frai.2026.1812622",
+  "first_author": "Paul",
+  "crossref_title": "An explainable machine learning framework for cardiovascular risk prediction using structured health data",
+  "crossref_year": 2026,
+  "crossref_doi": "10.3389/frai.2026.1812622",
+  "sim": 1.0,
+  "container": "Frontiers in Artificial Intelligence",
+  "authors": [
+   [
+    "Valeru Vision",
+    "Paul"
+   ],
+   [
+    "Jafar Ali Ibrahim",
+    "Syed Masood"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 22,
+  "title": "Enhanced cardiovascular disease risk prediction using explainable machine learning and data balancing",
+  "year": 2026,
+  "doi": "10.1007/s10791-026-09973-3",
+  "first_author": "Khawla",
+  "crossref_title": "Enhanced cardiovascular disease risk prediction using explainable machine learning and data balancing",
+  "crossref_year": 2026,
+  "crossref_doi": "10.1007/s10791-026-09973-3",
+  "sim": 1.0,
+  "container": "Discover Computing",
+  "authors": [
+   [
+    "Raduana",
+    "Khawla"
+   ],
+   [
+    "Md. Alamin",
+    "Talukder"
+   ],
+   [
+    "Md. Abu",
+    "Layek"
+   ],
+   [
+    "Utpal Kanti",
+    "Das"
+   ],
+   [
+    "Ammar",
+    "Alazab"
+   ],
+   [
+    "Mohsin",
+    "Kazi"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 23,
+  "title": "Predicting acute myocardial infarction from haematological markers utilizing machine learning and explainable artificial intelligence",
+  "year": 2024,
+  "doi": "10.1080/21642583.2024.2331074",
+  "first_author": "Bhat",
+  "crossref_title": "Predicting acute myocardial infarction from haematological markers utilizing machine learning and explainable artificial intelligence",
+  "crossref_year": 2024,
+  "crossref_doi": "10.1080/21642583.2024.2331074",
+  "sim": 1.0,
+  "container": "Systems Science &amp; Control Engineering",
+  "authors": [
+   [
+    "Tejas Kadengodlu",
+    "Bhat"
+   ],
+   [
+    "Krishnaraj",
+    "Chadaga"
+   ],
+   [
+    "Niranjana",
+    "Sampathila"
+   ],
+   [
+    "Swathi",
+    "KS"
+   ],
+   [
+    "Rajagopala",
+    "Chadaga"
+   ],
+   [
+    "Shashikiran",
+    "Umakanth"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 24,
+  "title": "A proposed technique for predicting heart disease using machine learning algorithms and an explainable AI method",
+  "year": 2024,
+  "doi": "10.1038/s41598-024-74656-2",
+  "first_author": "El-Sofany",
+  "crossref_title": "A proposed technique for predicting heart disease using machine learning algorithms and an explainable AI method",
+  "crossref_year": 2024,
+  "crossref_doi": "10.1038/s41598-024-74656-2",
+  "sim": 1.0,
+  "container": "Scientific Reports",
+  "authors": [
+   [
+    "Hosam",
+    "El-Sofany"
+   ],
+   [
+    "Belgacem",
+    "Bouallegue"
+   ],
+   [
+    "Yasser M. Abd",
+    "El-Latif"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 25,
+  "title": "Ensemble learning with explainable AI for improved heart disease prediction based on multiple datasets",
+  "year": 2025,
+  "doi": "10.1038/s41598-025-97547-6",
+  "first_author": "Ganie",
+  "crossref_title": "Ensemble learning with explainable AI for improved heart disease prediction based on multiple datasets",
+  "crossref_year": 2025,
+  "crossref_doi": "10.1038/s41598-025-97547-6",
+  "sim": 1.0,
+  "container": "Scientific Reports",
+  "authors": [
+   [
+    "Shahid Mohammad",
+    "Ganie"
+   ],
+   [
+    "Pijush Kanti Dutta",
+    "Pramanik"
+   ],
+   [
+    "Zhongming",
+    "Zhao"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 26,
+  "title": "Optimized ensemble learning approach with explainable AI for improved heart disease prediction",
+  "year": 2024,
+  "doi": "10.3390/info15070394",
+  "first_author": "Mienye",
+  "crossref_title": "Optimized Ensemble Learning Approach with Explainable AI for Improved Heart Disease Prediction",
+  "crossref_year": 2024,
+  "crossref_doi": "10.3390/info15070394",
+  "sim": 1.0,
+  "container": "Information",
+  "authors": [
+   [
+    "Ibomoiye Domor",
+    "Mienye"
+   ],
+   [
+    "Nobert",
+    "Jere"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 27,
+  "title": "Predicting coronary heart disease with advanced machine learning classifiers for improved cardiovascular risk assessment",
+  "year": 2025,
+  "doi": "10.1038/s41598-025-96437-1",
+  "first_author": "Rehman",
+  "crossref_title": "Predicting coronary heart disease with advanced machine learning classifiers for improved cardiovascular risk assessment",
+  "crossref_year": 2025,
+  "crossref_doi": "10.1038/s41598-025-96437-1",
+  "sim": 1.0,
+  "container": "Scientific Reports",
+  "authors": [
+   [
+    "Moiz Ur",
+    "Rehman"
+   ],
+   [
+    "Shahid",
+    "Naseem"
+   ],
+   [
+    "Ateeq Ur Rehman",
+    "Butt"
+   ],
+   [
+    "Tariq",
+    "Mahmood"
+   ],
+   [
+    "Amjad Rehman",
+    "Khan"
+   ],
+   [
+    "Inayat",
+    "Khan"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 28,
+  "title": "AttGRU-HMSI: enhancing heart disease diagnosis using hybrid deep learning approach",
+  "year": 2024,
+  "doi": "10.1038/s41598-024-56931-4",
+  "first_author": "Rao",
+  "crossref_title": "AttGRU-HMSI: enhancing heart disease diagnosis using hybrid deep learning approach",
+  "crossref_year": 2024,
+  "crossref_doi": "10.1038/s41598-024-56931-4",
+  "sim": 1.0,
+  "container": "Scientific Reports",
+  "authors": [
+   [
+    "G. Madhukar",
+    "Rao"
+   ],
+   [
+    "Dharavath",
+    "Ramesh"
+   ],
+   [
+    "Vandana",
+    "Sharma"
+   ],
+   [
+    "Anurag",
+    "Sinha"
+   ],
+   [
+    "Md. Mehedi",
+    "Hassan"
+   ],
+   [
+    "Amir H.",
+    "Gandomi"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 29,
+  "title": "An interpretable LightGBM model for predicting coronary heart disease: enhancing clinical decision-making with machine learning",
+  "year": 2025,
+  "doi": "10.1371/journal.pone.0330377",
+  "first_author": "Deng",
+  "crossref_title": "An interpretable LightGBM model for predicting coronary heart disease: Enhancing clinical decision-making with machine learning",
+  "crossref_year": 2025,
+  "crossref_doi": "10.1371/journal.pone.0330377",
+  "sim": 1.0,
+  "container": "PLOS One",
+  "authors": [
+   [
+    "Lang",
+    "Deng"
+   ],
+   [
+    "Kongjie",
+    "Lu"
+   ],
+   [
+    "Huanhuan",
+    "Hu"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 30,
+  "title": "Development of machine learning-based models to predict 10-year risk of cardiovascular disease: a prospective cohort study",
+  "year": 2023,
+  "doi": "10.1136/svn-2023-002332",
+  "first_author": "You",
+  "crossref_title": "Development of machine learning-based models to predict 10-year risk of cardiovascular disease: a prospective cohort study",
+  "crossref_year": 2023,
+  "crossref_doi": "10.1136/svn-2023-002332",
+  "sim": 1.0,
+  "container": "Stroke and Vascular Neurology",
+  "authors": [
+   [
+    "Jia",
+    "You"
+   ],
+   [
+    "Yu",
+    "Guo"
+   ],
+   [
+    "Ju-Jiao",
+    "Kang"
+   ],
+   [
+    "Hui-Fu",
+    "Wang"
+   ],
+   [
+    "Ming",
+    "Yang"
+   ],
+   [
+    "Jian-Feng",
+    "Feng"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 31,
+  "title": "Development of an efficient novel method for coronary artery disease prediction using machine learning and deep learning techniques",
+  "year": 2024,
+  "doi": "10.3233/THC-240740",
+  "first_author": "Mansoor",
+  "crossref_title": "Development of an efficient novel method for coronary artery disease prediction using machine learning and deep learning techniques",
+  "crossref_year": 2024,
+  "crossref_doi": "10.3233/thc-240740",
+  "sim": 1.0,
+  "container": "Technology and Health Care",
+  "authors": [
+   [
+    "C.M.M.",
+    "Mansoor"
+   ],
+   [
+    "Sarat Kumar",
+    "Chettri"
+   ],
+   [
+    "H.M.M.",
+    "Naleer"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 32,
+  "title": "Advanced detection of coronary artery disease via deep learning analysis of plasma cytokine data",
+  "year": 2024,
+  "doi": "10.3389/fcvm.2024.1365481",
+  "first_author": "Shoaib",
+  "crossref_title": "Advanced detection of coronary artery disease via deep learning analysis of plasma cytokine data",
+  "crossref_year": 2024,
+  "crossref_doi": "10.3389/fcvm.2024.1365481",
+  "sim": 1.0,
+  "container": "Frontiers in Cardiovascular Medicine",
+  "authors": [
+   [
+    "Muhammad",
+    "Shoaib"
+   ],
+   [
+    "Ahmad",
+    "Junaid"
+   ],
+   [
+    "Ghassan",
+    "Husnain"
+   ],
+   [
+    "Mansoor",
+    "Qadir"
+   ],
+   [
+    "Yazeed Yasin",
+    "Ghadi"
+   ],
+   [
+    "S. S.",
+    "Askar"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 33,
+  "title": "Prediction of coronary artery disease using machine learning",
+  "year": 2025,
+  "doi": "10.1063/5.0241960",
+  "first_author": "Guggilam",
+  "crossref_title": "Prediction of coronary artery disease using machine learning",
+  "crossref_year": 2025,
+  "crossref_doi": "10.1063/5.0241960",
+  "sim": 1.0,
+  "container": "AIP Conference Proceedings",
+  "authors": [
+   [
+    "Navya",
+    "Guggilam"
+   ],
+   [
+    "Rehana Parveen",
+    "Shaik"
+   ],
+   [
+    "Vaishnavi",
+    "Kakani"
+   ],
+   [
+    "Sushma",
+    "Pati"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 34,
+  "title": "Comparative study of feature selection algorithms for heart disease prediction",
+  "year": 2025,
+  "doi": "10.1007/978-981-97-8627-5_15",
+  "first_author": "Vallabhaneni",
+  "crossref_title": "Comparative Study of Feature Selection Algorithms for Heart Disease Prediction",
+  "crossref_year": 2025,
+  "crossref_doi": "10.1007/978-981-97-8627-5_15",
+  "sim": 1.0,
+  "container": "Studies in Smart Technologies",
+  "authors": [
+   [
+    "Preetam",
+    "Vallabhaneni"
+   ],
+   [
+    "Aditya",
+    "Dudugu"
+   ],
+   [
+    "Harishitha Chowdary",
+    "Alapati"
+   ],
+   [
+    "Sravya",
+    "Meda"
+   ],
+   [
+    "Ashok Kumar",
+    "Pradhan"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 35,
+  "title": "Transfer learning-based hybrid VGG16-machine learning approach for heart disease detection with explainable artificial intelligence",
+  "year": 2025,
+  "doi": "10.3389/frai.2025.1504281",
+  "first_author": "Addisu",
+  "crossref_title": "Transfer learning-based hybrid VGG16-machine learning approach for heart disease detection with explainable artificial intelligence",
+  "crossref_year": 2025,
+  "crossref_doi": "10.3389/frai.2025.1504281",
+  "sim": 1.0,
+  "container": "Frontiers in Artificial Intelligence",
+  "authors": [
+   [
+    "Eshetie Gizachew",
+    "Addisu"
+   ],
+   [
+    "Tahayu Gizachew",
+    "Yirga"
+   ],
+   [
+    "Hailu Gizachew",
+    "Yirga"
+   ],
+   [
+    "Alemu Demeke",
+    "Yehuala"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 36,
+  "title": "Application of Deep Learning for Heart Attack Prediction with Explainable Artificial Intelligence",
+  "year": 2024,
+  "doi": "10.3390/computers13100244",
+  "first_author": "Dritsas",
+  "crossref_title": "Application of Deep Learning for Heart Attack Prediction with Explainable Artificial Intelligence",
+  "crossref_year": 2024,
+  "crossref_doi": "10.3390/computers13100244",
+  "sim": 1.0,
+  "container": "Computers",
+  "authors": [
+   [
+    "Elias",
+    "Dritsas"
+   ],
+   [
+    "Maria",
+    "Trigka"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 37,
+  "title": "Machine learning and deep learning for cardiovascular disease prediction: a comprehensive review",
+  "year": 2024,
+  "doi": "10.1007/s10462-024-10899-9",
+  "first_author": "Zhou",
+  "crossref_title": "A comprehensive review of deep learning-based models for heart disease prediction",
+  "crossref_year": 2024,
+  "crossref_doi": "10.1007/s10462-024-10899-9",
+  "sim": 0.251,
+  "container": "Artificial Intelligence Review",
+  "authors": [
+   [
+    "Chunjie",
+    "Zhou"
+   ],
+   [
+    "Pengfei",
+    "Dai"
+   ],
+   [
+    "Aihua",
+    "Hou"
+   ],
+   [
+    "Zhenxing",
+    "Zhang"
+   ],
+   [
+    "Li",
+    "Liu"
+   ],
+   [
+    "Ali",
+    "Li"
+   ]
+  ],
+  "author_ok": true,
+  "ok": false
+ },
+ {
+  "n": 38,
+  "title": "Machine learning approaches for cardiovascular disease prediction: A review",
+  "year": 2025,
+  "doi": "10.1016/j.acvd.2025.04.055",
+  "first_author": "Wan",
+  "crossref_title": "Machine learning approaches for cardiovascular disease prediction: A review",
+  "crossref_year": 2025,
+  "crossref_doi": "10.1016/j.acvd.2025.04.055",
+  "sim": 1.0,
+  "container": "Archives of Cardiovascular Diseases",
+  "authors": [
+   [
+    "Siming",
+    "Wan"
+   ],
+   [
+    "Feng",
+    "Wan"
+   ],
+   [
+    "Xi-jian",
+    "Dai"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 39,
+  "title": "Artificial intelligence in the risk prediction models of cardiovascular disease and development of an independent validation screening tool: a systematic review",
+  "year": 2024,
+  "doi": "10.1186/s12916-024-03273-7",
+  "first_author": "Cai",
+  "crossref_title": "Artificial intelligence in the risk prediction models of cardiovascular disease and development of an independent validation screening tool: a systematic review",
+  "crossref_year": 2024,
+  "crossref_doi": "10.1186/s12916-024-03273-7",
+  "sim": 1.0,
+  "container": "BMC Medicine",
+  "authors": [
+   [
+    "Yue",
+    "Cai"
+   ],
+   [
+    "Yu-Qing",
+    "Cai"
+   ],
+   [
+    "Li-Ying",
+    "Tang"
+   ],
+   [
+    "Yi-Han",
+    "Wang"
+   ],
+   [
+    "Mengchun",
+    "Gong"
+   ],
+   [
+    "Tian-Ci",
+    "Jing"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 40,
+  "title": "A systematic review on deep learning-enabled coronary CT angiography for plaque and stenosis quantification and cardiac risk prediction",
+  "year": 2025,
+  "doi": "10.1016/j.ejro.2025.100652",
+  "first_author": "Shrivastava",
+  "crossref_title": "A systematic review on deep learning-enabled coronary CT angiography for plaque and stenosis quantification and cardiac risk prediction",
+  "crossref_year": 2025,
+  "crossref_doi": "10.1016/j.ejro.2025.100652",
+  "sim": 1.0,
+  "container": "European Journal of Radiology Open",
+  "authors": [
+   [
+    "Priyal",
+    "Shrivastava"
+   ],
+   [
+    "Shivali",
+    "Kashikar"
+   ],
+   [
+    "P.H.",
+    "Parihar"
+   ],
+   [
+    "Pachyanti",
+    "Kasat"
+   ],
+   [
+    "Paritosh",
+    "Bhangale"
+   ],
+   [
+    "Prakher",
+    "Shrivastava"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 41,
+  "title": "Explainable AI-driven intelligent system for precision forecasting in cardiovascular disease",
+  "year": 2025,
+  "doi": "10.3389/fmed.2025.1596335",
+  "first_author": "Bilal",
+  "crossref_title": "Explainable AI-driven intelligent system for precision forecasting in cardiovascular disease",
+  "crossref_year": 2025,
+  "crossref_doi": "10.3389/fmed.2025.1596335",
+  "sim": 1.0,
+  "container": "Frontiers in Medicine",
+  "authors": [
+   [
+    "Anas",
+    "Bilal"
+   ],
+   [
+    "Abdulkareem",
+    "Alzahrani"
+   ],
+   [
+    "Khalid",
+    "Almohammadi"
+   ],
+   [
+    "Muhammad",
+    "Saleem"
+   ],
+   [
+    "Muhammad Sajid",
+    "Farooq"
+   ],
+   [
+    "Raheem",
+    "Sarwar"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 42,
+  "title": "Discovering biomarkers associated and predicting cardiovascular disease with high accuracy using a novel nexus of machine learning techniques for precision medicine",
+  "year": 2024,
+  "doi": "10.1038/s41598-023-50600-8",
+  "first_author": "DeGroat",
+  "crossref_title": "Discovering biomarkers associated and predicting cardiovascular disease with high accuracy using a novel nexus of machine learning techniques for precision medicine",
+  "crossref_year": 2024,
+  "crossref_doi": "10.1038/s41598-023-50600-8",
+  "sim": 1.0,
+  "container": "Scientific Reports",
+  "authors": [
+   [
+    "William",
+    "DeGroat"
+   ],
+   [
+    "Habiba",
+    "Abdelhalim"
+   ],
+   [
+    "Kush",
+    "Patel"
+   ],
+   [
+    "Dinesh",
+    "Mendhe"
+   ],
+   [
+    "Saman",
+    "Zeeshan"
+   ],
+   [
+    "Zeeshan",
+    "Ahmed"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 43,
+  "title": "MDensNet201-IDRSRNet: Efficient cardiovascular disease prediction system using hybrid deep learning",
+  "year": 2024,
+  "doi": "10.1016/j.bspc.2024.106147",
+  "first_author": "Mandava",
+  "crossref_title": "MDensNet201-IDRSRNet: Efficient cardiovascular disease prediction system using hybrid deep learning",
+  "crossref_year": 2024,
+  "crossref_doi": "10.1016/j.bspc.2024.106147",
+  "sim": 1.0,
+  "container": "Biomedical Signal Processing and Control",
+  "authors": [
+   [
+    "Manjula",
+    "Mandava"
+   ],
+   [
+    "Surendra",
+    "Reddy vinta"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 44,
+  "title": "Machine Learning-Based Predictive Models for Detection of Cardiovascular Diseases",
+  "year": 2024,
+  "doi": "10.3390/diagnostics14020144",
+  "first_author": "Ogunpola",
+  "crossref_title": "Machine Learning-Based Predictive Models for Detection of Cardiovascular Diseases",
+  "crossref_year": 2024,
+  "crossref_doi": "10.3390/diagnostics14020144",
+  "sim": 1.0,
+  "container": "Diagnostics",
+  "authors": [
+   [
+    "Adedayo",
+    "Ogunpola"
+   ],
+   [
+    "Faisal",
+    "Saeed"
+   ],
+   [
+    "Shadi",
+    "Basurra"
+   ],
+   [
+    "Abdullah M.",
+    "Albarrak"
+   ],
+   [
+    "Sultan Noman",
+    "Qasem"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 45,
+  "title": "Explainable coronary artery disease prediction model based on AutoGluon from AutoML framework",
+  "year": 2024,
+  "doi": "10.3389/fcvm.2024.1360548",
+  "first_author": "Wang",
+  "crossref_title": "Explainable coronary artery disease prediction model based on AutoGluon from AutoML framework",
+  "crossref_year": 2024,
+  "crossref_doi": "10.3389/fcvm.2024.1360548",
+  "sim": 1.0,
+  "container": "Frontiers in Cardiovascular Medicine",
+  "authors": [
+   [
+    "Jianghong",
+    "Wang"
+   ],
+   [
+    "Qiang",
+    "Xue"
+   ],
+   [
+    "Chris W. J.",
+    "Zhang"
+   ],
+   [
+    "Kelvin Kian Loong",
+    "Wong"
+   ],
+   [
+    "Zhihua",
+    "Liu"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 46,
+  "title": "Machine learning techniques for improved prediction of cardiovascular diseases using integrated healthcare data",
+  "year": 2025,
+  "doi": "10.3389/frai.2025.1694450",
+  "first_author": "Kahraman",
+  "crossref_title": "Machine learning techniques for improved prediction of cardiovascular diseases using integrated healthcare data",
+  "crossref_year": 2025,
+  "crossref_doi": "10.3389/frai.2025.1694450",
+  "sim": 1.0,
+  "container": "Frontiers in Artificial Intelligence",
+  "authors": [
+   [
+    "Abdulgani",
+    "Kahraman"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 47,
+  "title": "Explainable machine learning for early heart disease risk prediction: Insights from a clinical dataset in Bangladesh",
+  "year": 2026,
+  "doi": "10.1016/j.ibmed.2026.100352",
+  "first_author": "Chakraborty",
+  "crossref_title": "Explainable machine learning for early heart disease risk prediction: Insights from a clinical dataset in Bangladesh",
+  "crossref_year": 2026,
+  "crossref_doi": "10.1016/j.ibmed.2026.100352",
+  "sim": 1.0,
+  "container": "Intelligence-Based Medicine",
+  "authors": [
+   [
+    "Arpita",
+    "Chakraborty"
+   ],
+   [
+    "Utpol Kanti",
+    "Das"
+   ],
+   [
+    "Sadia",
+    "Sazzad"
+   ],
+   [
+    "Panna",
+    "Das"
+   ],
+   [
+    "Md. Mehedi Hassan",
+    "Khan"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 48,
+  "title": "TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods",
+  "year": 2023,
+  "doi": "10.1136/bmj-2023-078378",
+  "first_author": "Collins",
+  "crossref_title": "TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods",
+  "crossref_year": 2024,
+  "crossref_doi": "10.1136/bmj-2023-078378",
+  "sim": 1.0,
+  "container": "BMJ",
+  "authors": [
+   [
+    "Gary S",
+    "Collins"
+   ],
+   [
+    "Karel G M",
+    "Moons"
+   ],
+   [
+    "Paula",
+    "Dhiman"
+   ],
+   [
+    "Richard D",
+    "Riley"
+   ],
+   [
+    "Andrew L",
+    "Beam"
+   ],
+   [
+    "Ben",
+    "Van Calster"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 49,
+  "title": "PROBAST+AI: an updated quality, risk of bias, and applicability assessment tool for prediction models using regression or artificial intelligence methods",
+  "year": 2024,
+  "doi": "10.1136/bmj-2024-082505",
+  "first_author": "Moons",
+  "crossref_title": "PROBAST+AI: an updated quality, risk of bias, and applicability assessment tool for prediction models using regression or artificial intelligence methods",
+  "crossref_year": 2025,
+  "crossref_doi": "10.1136/bmj-2024-082505",
+  "sim": 1.0,
+  "container": "BMJ",
+  "authors": [
+   [
+    "Karel G M",
+    "Moons"
+   ],
+   [
+    "Johanna A A",
+    "Damen"
+   ],
+   [
+    "Tabea",
+    "Kaul"
+   ],
+   [
+    "Lotty",
+    "Hooft"
+   ],
+   [
+    "Constanza",
+    "Andaur Navarro"
+   ],
+   [
+    "Paula",
+    "Dhiman"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 50,
+  "title": "Guiding questions to avoid data leakage in biological machine learning applications",
+  "year": 2024,
+  "doi": "10.1038/s41592-024-02362-y",
+  "first_author": "Bernett",
+  "crossref_title": "Guiding questions to avoid data leakage in biological machine learning applications",
+  "crossref_year": 2024,
+  "crossref_doi": "10.1038/s41592-024-02362-y",
+  "sim": 1.0,
+  "container": "Nature Methods",
+  "authors": [
+   [
+    "Judith",
+    "Bernett"
+   ],
+   [
+    "David B.",
+    "Blumenthal"
+   ],
+   [
+    "Dominik G.",
+    "Grimm"
+   ],
+   [
+    "Florian",
+    "Haselbeck"
+   ],
+   [
+    "Roman",
+    "Joeres"
+   ],
+   [
+    "Olga V.",
+    "Kalinina"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 51,
+  "title": "Sociodemographic bias in clinical machine learning models: a scoping review of algorithmic bias instances and mechanisms",
+  "year": 2024,
+  "doi": "10.1016/j.jclinepi.2024.111606",
+  "first_author": "Colacci",
+  "crossref_title": "Sociodemographic bias in clinical machine learning models: a scoping review of algorithmic bias instances and mechanisms",
+  "crossref_year": 2025,
+  "crossref_doi": "10.1016/j.jclinepi.2024.111606",
+  "sim": 1.0,
+  "container": "Journal of Clinical Epidemiology",
+  "authors": [
+   [
+    "Michael",
+    "Colacci"
+   ],
+   [
+    "Yu Qing",
+    "Huang"
+   ],
+   [
+    "Gemma",
+    "Postill"
+   ],
+   [
+    "Pavel",
+    "Zhelnov"
+   ],
+   [
+    "Orna",
+    "Fennelly"
+   ],
+   [
+    "Amol",
+    "Verma"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 52,
+  "title": "Explainable AI in Clinical Decision Support Systems: A Meta-Analysis of Methods, Applications, and Usability Challenges",
+  "year": 2025,
+  "doi": "10.3390/healthcare13172154",
+  "first_author": "Abbas",
+  "crossref_title": "Explainable AI in Clinical Decision Support Systems: A Meta-Analysis of Methods, Applications, and Usability Challenges",
+  "crossref_year": 2025,
+  "crossref_doi": "10.3390/healthcare13172154",
+  "sim": 1.0,
+  "container": "Healthcare",
+  "authors": [
+   [
+    "Qaiser",
+    "Abbas"
+   ],
+   [
+    "Woonyoung",
+    "Jeong"
+   ],
+   [
+    "Seung Won",
+    "Lee"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 53,
+  "title": "Explainable AI for Clinical Decision Support Systems: Literature Review, Key Gaps, and Research Synthesis",
+  "year": 2025,
+  "doi": "10.3390/informatics12040119",
+  "first_author": "Salimparsa",
+  "crossref_title": "Explainable AI for Clinical Decision Support Systems: Literature Review, Key Gaps, and Research Synthesis",
+  "crossref_year": 2025,
+  "crossref_doi": "10.3390/informatics12040119",
+  "sim": 1.0,
+  "container": "Informatics",
+  "authors": [
+   [
+    "Mozhgan",
+    "Salimparsa"
+   ],
+   [
+    "Kamran",
+    "Sedig"
+   ],
+   [
+    "Daniel J.",
+    "Lizotte"
+   ],
+   [
+    "Sheikh S.",
+    "Abdullah"
+   ],
+   [
+    "Niaz",
+    "Chalabianloo"
+   ],
+   [
+    "Flory T.",
+    "Muanda"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 54,
+  "title": "Applying Conformal Prediction to a Deep Learning Model for Intracranial Hemorrhage Detection to Improve Trustworthiness",
+  "year": 2025,
+  "doi": "10.1148/ryai.240032",
+  "first_author": "Gamble",
+  "crossref_title": "Applying Conformal Prediction to a Deep Learning Model for                     Intracranial Hemorrhage Detection to Improve Trustworthiness",
+  "crossref_year": 2025,
+  "crossref_doi": "10.1148/ryai.240032",
+  "sim": 1.0,
+  "container": "Radiology: Artificial Intelligence",
+  "authors": [
+   [
+    "Cooper",
+    "Gamble"
+   ],
+   [
+    "Shahriar",
+    "Faghani"
+   ],
+   [
+    "Bradley J.",
+    "Erickson"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 55,
+  "title": "Developing an Explainable Artificial Intelligence System for the Mobile-Based Diagnosis of Febrile Diseases Using Random Forest, LIME, and GPT",
+  "year": 2025,
+  "doi": "10.4258/hir.2025.31.2.125",
+  "first_author": "Attai",
+  "crossref_title": "Developing an Explainable Artificial Intelligence System for the Mobile-Based Diagnosis of Febrile Diseases Using Random Forest, LIME, and GPT",
+  "crossref_year": 2025,
+  "crossref_doi": "10.4258/hir.2025.31.2.125",
+  "sim": 1.0,
+  "container": "Healthcare Informatics Research",
+  "authors": [
+   [
+    "Kingsley F.",
+    "Attai"
+   ],
+   [
+    "Constance",
+    "Amannah"
+   ],
+   [
+    "Moses",
+    "Ekpenyong"
+   ],
+   [
+    "Daniel E.",
+    "Asuquo"
+   ],
+   [
+    "Oryina K.",
+    "Akputu"
+   ],
+   [
+    "Okure U.",
+    "Obot"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 56,
+  "title": "A framework to assess clinical safety and hallucination rates of LLMs for medical text summarisation",
+  "year": 2025,
+  "doi": "10.1038/s41746-025-01670-7",
+  "first_author": "Asgari",
+  "crossref_title": "A framework to assess clinical safety and hallucination rates of LLMs for medical text summarisation",
+  "crossref_year": 2025,
+  "crossref_doi": "10.1038/s41746-025-01670-7",
+  "sim": 1.0,
+  "container": "npj Digital Medicine",
+  "authors": [
+   [
+    "Elham",
+    "Asgari"
+   ],
+   [
+    "Nina",
+    "Montaña-Brown"
+   ],
+   [
+    "Magda",
+    "Dubois"
+   ],
+   [
+    "Saleh",
+    "Khalil"
+   ],
+   [
+    "Jasmine",
+    "Balloch"
+   ],
+   [
+    "Joshua Au",
+    "Yeung"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 57,
+  "title": "Uncertainty-aware training to improve deep learning model calibration for classification of cardiac MR images",
+  "year": 2023,
+  "doi": "10.1016/j.media.2023.102861",
+  "first_author": "Dawood",
+  "crossref_title": "Uncertainty aware training to improve deep learning model calibration for classification of cardiac MR images",
+  "crossref_year": 2023,
+  "crossref_doi": "10.1016/j.media.2023.102861",
+  "sim": 0.995,
+  "container": "Medical Image Analysis",
+  "authors": [
+   [
+    "Tareen",
+    "Dawood"
+   ],
+   [
+    "Chen",
+    "Chen"
+   ],
+   [
+    "Baldeep S.",
+    "Sidhu"
+   ],
+   [
+    "Bram",
+    "Ruijsink"
+   ],
+   [
+    "Justin",
+    "Gould"
+   ],
+   [
+    "Bradley",
+    "Porter"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 58,
+  "title": "SHAP-based predictive modeling for 1-year all-cause readmission risk in elderly heart failure patients",
+  "year": 2024,
+  "doi": "10.1038/s41598-024-67844-7",
+  "first_author": "Luo",
+  "crossref_title": "SHAP based predictive modeling for 1 year all-cause readmission risk in elderly heart failure patients: feature selection and model interpretation",
+  "crossref_year": 2024,
+  "crossref_doi": "10.1038/s41598-024-67844-7",
+  "sim": 0.815,
+  "container": "Scientific Reports",
+  "authors": [
+   [
+    "Hao",
+    "Luo"
+   ],
+   [
+    "Congyu",
+    "Xiang"
+   ],
+   [
+    "Lang",
+    "Zeng"
+   ],
+   [
+    "Shikang",
+    "Li"
+   ],
+   [
+    "Xue",
+    "Mei"
+   ],
+   [
+    "Lijuan",
+    "Xiong"
+   ]
+  ],
+  "author_ok": true,
+  "ok": false
+ },
+ {
+  "n": 59,
+  "title": "Explainable artificial intelligence in radiological cardiovascular imaging: a systematic review",
+  "year": 2025,
+  "doi": "10.3390/diagnostics15111399",
+  "first_author": "Haupt",
+  "crossref_title": "Explainable Artificial Intelligence in Radiological Cardiovascular Imaging—A Systematic Review",
+  "crossref_year": 2025,
+  "crossref_doi": "10.3390/diagnostics15111399",
+  "sim": 0.995,
+  "container": "Diagnostics",
+  "authors": [
+   [
+    "Matteo",
+    "Haupt"
+   ],
+   [
+    "Martin H.",
+    "Maurer"
+   ],
+   [
+    "Rohit Philip",
+    "Thomas"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 60,
+  "title": "Machine learning based prediction models for cardiovascular disease risk using electronic health records data: systematic review and meta-analysis",
+  "year": 2024,
+  "doi": "10.1093/ehjdh/ztae080",
+  "first_author": "Liu",
+  "crossref_title": "Machine learning based prediction models for cardiovascular disease risk using electronic health records data: systematic review and meta-analysis",
+  "crossref_year": 2024,
+  "crossref_doi": "10.1093/ehjdh/ztae080",
+  "sim": 1.0,
+  "container": "European Heart Journal - Digital Health",
+  "authors": [
+   [
+    "Tianyi",
+    "Liu"
+   ],
+   [
+    "Andrew",
+    "Krentz"
+   ],
+   [
+    "Lei",
+    "Lu"
+   ],
+   [
+    "Vasa",
+    "Curcin"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 61,
+  "title": "Firefly-based segmentation and residual deep learning for multi-class diabetic retinopathy detection",
+  "year": 2025,
+  "doi": "10.4114/intartif.vol28iss76pp223-252",
+  "first_author": "Prathibha",
+  "crossref_title": "Firefly-Based Segmentation and Residual Deep Learning for Multi- Class Diabetic Retinopathy Detection",
+  "crossref_year": 2025,
+  "crossref_doi": "10.4114/intartif.vol28iss76pp223-252",
+  "sim": 0.995,
+  "container": "Inteligencia Artificial",
+  "authors": [
+   [
+    "Prathibha",
+    "S"
+   ],
+   [
+    "Madhusudhan",
+    "K.N."
+   ],
+   [
+    "Victor Ikechukwu",
+    "Agughasi"
+   ]
+  ],
+  "author_ok": false,
+  "ok": true
+ },
+ {
+  "n": 62,
+  "title": "Semi-supervised labelling of chest x-ray images using unsupervised clustering for ground-truth generation",
+  "year": 2023,
+  "doi": "10.31763/aet.v2i3.1143",
+  "first_author": "Ikechukwu",
+  "crossref_title": "Semi-supervised labelling of chest x-ray images using  unsupervised clustering for ground-truth generation",
+  "crossref_year": 2023,
+  "crossref_doi": "10.31763/aet.v2i3.1143",
+  "sim": 1.0,
+  "container": "Applied Engineering and Technology",
+  "authors": [
+   [
+    "Victor Ikechukwu",
+    "Agughasi"
+   ],
+   [
+    "Murali",
+    "Srinivasiah"
+   ]
+  ],
+  "author_ok": false,
+  "ok": true
+ },
+ {
+  "n": 63,
+  "title": "Random Forests",
+  "year": 2001,
+  "doi": "10.1023/A:1010933404324",
+  "first_author": "Breiman",
+  "crossref_title": "Random Forests",
+  "crossref_year": 2001,
+  "crossref_doi": "10.1023/a:1010933404324",
+  "sim": 1.0,
+  "container": "Machine Learning",
+  "authors": [
+   [
+    "Leo",
+    "Breiman"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 64,
+  "title": "Greedy function approximation: a gradient boosting machine",
+  "year": 2001,
+  "doi": "10.1214/aos/1013203451",
+  "first_author": "Friedman",
+  "crossref_title": "Greedy function approximation: A gradient boosting machine.",
+  "crossref_year": 2001,
+  "crossref_doi": "10.1214/aos/1013203451",
+  "sim": 1.0,
+  "container": "The Annals of Statistics",
+  "authors": [
+   [
+    "Jerome H.",
+    "Friedman"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 65,
+  "title": "Intelligible Models for HealthCare",
+  "year": 2015,
+  "doi": "10.1145/2783258.2788613",
+  "first_author": "Caruana",
+  "crossref_title": "Intelligible Models for HealthCare",
+  "crossref_year": 2015,
+  "crossref_doi": "10.1145/2783258.2788613",
+  "sim": 1.0,
+  "container": "Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+  "authors": [
+   [
+    "Rich",
+    "Caruana"
+   ],
+   [
+    "Yin",
+    "Lou"
+   ],
+   [
+    "Johannes",
+    "Gehrke"
+   ],
+   [
+    "Paul",
+    "Koch"
+   ],
+   [
+    "Marc",
+    "Sturm"
+   ],
+   [
+    "Noemie",
+    "Elhadad"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 66,
+  "title": "CX-Net: an efficient ensemble semantic deep neural network for ROI identification from chest-x-ray images for COPD diagnosis",
+  "year": 2023,
+  "doi": "10.1088/2632-2153/acd2a5",
+  "first_author": "Ikechukwu",
+  "crossref_title": "CX-Net: an efficient ensemble semantic deep neural network for ROI identification from chest-x-ray images for COPD diagnosis",
+  "crossref_year": 2023,
+  "crossref_doi": "10.1088/2632-2153/acd2a5",
+  "sim": 1.0,
+  "container": "Machine Learning: Science and Technology",
+  "authors": [
+   [
+    "Agughasi",
+    "Victor Ikechukwu"
+   ],
+   [
+    "Murali",
+    "S"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 67,
+  "title": "COPDNet: an explainable ResNet50 model for the diagnosis of COPD from CXR images",
+  "year": 2023,
+  "doi": null,
+  "first_author": "Ikechukwu",
+  "crossref_title": "COPDNet: An Explainable ResNet50 Model for the Diagnosis of COPD from CXR Images",
+  "crossref_year": 2023,
+  "crossref_doi": "10.1109/indiscon58499.2023.10270604",
+  "sim": 1.0,
+  "container": "2023 IEEE 4th Annual Flagship India Council International Subsections Conference (INDISCON)",
+  "authors": [
+   [
+    "Agughasi Victor",
+    "Ikechukwu"
+   ],
+   [
+    "Murali",
+    "S"
+   ],
+   [
+    "Honnaraju",
+    "B"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 68,
+  "title": "The superiority of fine-tuning over full-training for the efficient diagnosis of COPD from CXR images",
+  "year": 2024,
+  "doi": "10.4114/intartif.vol27iss74pp62-79",
+  "first_author": "Ikechukwu",
+  "crossref_title": "The Superiority of Fine-tuning over Full-training for the Efficient Diagnosis of COPD from CXR Images",
+  "crossref_year": 2024,
+  "crossref_doi": "10.4114/intartif.vol27iss74pp62-79",
+  "sim": 1.0,
+  "container": "Inteligencia Artificial",
+  "authors": [
+   [
+    "Victor Ikechukwu",
+    "Agughasi"
+   ]
+  ],
+  "author_ok": false,
+  "ok": true
+ },
+ {
+  "n": 69,
+  "title": "Enhancing early breast cancer detection with infrared thermography: a comparative evaluation of deep learning and machine learning models",
+  "year": 2024,
+  "doi": "10.3390/technologies13010007",
+  "first_author": "Jalloul",
+  "crossref_title": "Enhancing Early Breast Cancer Detection with Infrared Thermography: A Comparative Evaluation of Deep Learning and Machine Learning Models",
+  "crossref_year": 2024,
+  "crossref_doi": "10.3390/technologies13010007",
+  "sim": 1.0,
+  "container": "Technologies",
+  "authors": [
+   [
+    "Reem",
+    "Jalloul"
+   ],
+   [
+    "Chethan Hasigala",
+    "Krishnappa"
+   ],
+   [
+    "Victor Ikechukwu",
+    "Agughasi"
+   ],
+   [
+    "Ramez",
+    "Alkhatib"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 70,
+  "title": "Leveraging transfer learning for efficient diagnosis of COPD using CXR images and explainable AI techniques",
+  "year": 2024,
+  "doi": "10.4114/intartif.vol27iss74pp133-151",
+  "first_author": "Agughasi",
+  "crossref_title": "Leveraging Transfer Learning for Efficient Diagnosis of COPD Using CXR Images and Explainable AI Techniques",
+  "crossref_year": 2024,
+  "crossref_doi": "10.4114/intartif.vol27iss74pp133-151",
+  "sim": 1.0,
+  "container": "Inteligencia Artificial",
+  "authors": [
+   [
+    "Victor Ikechukwu",
+    "Agughasi"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 71,
+  "title": "Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization",
+  "year": 2020,
+  "doi": "10.1007/s11263-019-01228-7",
+  "first_author": "Selvaraju",
+  "crossref_title": "Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization",
+  "crossref_year": 2019,
+  "crossref_doi": "10.1007/s11263-019-01228-7",
+  "sim": 1.0,
+  "container": "International Journal of Computer Vision",
+  "authors": [
+   [
+    "Ramprasaath R.",
+    "Selvaraju"
+   ],
+   [
+    "Michael",
+    "Cogswell"
+   ],
+   [
+    "Abhishek",
+    "Das"
+   ],
+   [
+    "Ramakrishna",
+    "Vedantam"
+   ],
+   [
+    "Devi",
+    "Parikh"
+   ],
+   [
+    "Dhruv",
+    "Batra"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 72,
+  "title": "From local explanations to global understanding with explainable AI for trees",
+  "year": 2020,
+  "doi": "10.1038/s42256-019-0138-9",
+  "first_author": "Lundberg",
+  "crossref_title": "From local explanations to global understanding with explainable AI for trees",
+  "crossref_year": 2020,
+  "crossref_doi": "10.1038/s42256-019-0138-9",
+  "sim": 1.0,
+  "container": "Nature Machine Intelligence",
+  "authors": [
+   [
+    "Scott M.",
+    "Lundberg"
+   ],
+   [
+    "Gabriel",
+    "Erion"
+   ],
+   [
+    "Hugh",
+    "Chen"
+   ],
+   [
+    "Alex",
+    "DeGrave"
+   ],
+   [
+    "Jordan M.",
+    "Prutkin"
+   ],
+   [
+    "Bala",
+    "Nair"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 73,
+  "title": "xAI: an explainable AI model for the diagnosis of COPD from CXR images",
+  "year": 2023,
+  "doi": null,
+  "first_author": "Ikechukwu",
+  "crossref_title": "xAI: An Explainable AI Model for the Diagnosis of COPD from CXR Images",
+  "crossref_year": 2023,
+  "crossref_doi": "10.1109/icdds59137.2023.10434619",
+  "sim": 1.0,
+  "container": "2023 IEEE 2nd International Conference on Data, Decision and Systems (ICDDS)",
+  "authors": [
+   [
+    "Agughasi Victor",
+    "Ikechukwu"
+   ],
+   [
+    "S.",
+    "Murali"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 74,
+  "title": "Explainable deep learning model for Covid-19 diagnosis",
+  "year": 2022,
+  "doi": null,
+  "first_author": "Ikechukwu",
+  "crossref_title": "Improved Explainable Deep Learning Model for COVID-19 Diagnosis from CXR Images",
+  "crossref_year": 2024,
+  "crossref_doi": "10.1109/isivc61350.2024.10577797",
+  "sim": 0.809,
+  "container": "2024 IEEE 12th International Symposium on Signal, Image, Video and Communications (ISIVC)",
+  "authors": [
+   [
+    "Houda El",
+    "Mohamadi"
+   ],
+   [
+    "Mohammed El",
+    "Hassouni"
+   ]
+  ],
+  "author_ok": false,
+  "ok": false
+ },
+ {
+  "n": 75,
+  "title": "Deep Learning for Myocardial Infarction Detection Using Electrocardiogram Images: A Systematic Review",
+  "year": 2026,
+  "doi": "10.3390/math14040613",
+  "first_author": "Gutierrez-Garcia",
+  "crossref_title": "Deep Learning for Myocardial Infarction Detection Using Electrocardiogram Images: A Systematic Review",
+  "crossref_year": 2026,
+  "crossref_doi": "10.3390/math14040613",
+  "sim": 1.0,
+  "container": "Mathematics",
+  "authors": [
+   [
+    "J. Octavio",
+    "Gutierrez-Garcia"
+   ],
+   [
+    "Edgar",
+    "Roman-Rangel"
+   ],
+   [
+    "Juan Manuel",
+    "Rendón-Mancha"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 76,
+  "title": "Fourth Universal Definition of Myocardial Infarction (2018)",
+  "year": 2018,
+  "doi": "10.1161/CIR.0000000000000617",
+  "first_author": "Thygesen",
+  "crossref_title": "Fourth Universal Definition of Myocardial Infarction (2018)",
+  "crossref_year": 2018,
+  "crossref_doi": "10.1161/cir.0000000000000617",
+  "sim": 1.0,
+  "container": "Circulation",
+  "authors": [
+   [
+    "Kristian",
+    "Thygesen"
+   ],
+   [
+    "Joseph S.",
+    "Alpert"
+   ],
+   [
+    "Allan S.",
+    "Jaffe"
+   ],
+   [
+    "Bernard R.",
+    "Chaitman"
+   ],
+   [
+    "Jeroen J.",
+    "Bax"
+   ],
+   [
+    "David A.",
+    "Morrow"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 77,
+  "title": "2023 ESC Guidelines for the management of acute coronary syndromes",
+  "year": 2023,
+  "doi": "10.1093/eurheartj/ehad191",
+  "first_author": "Byrne",
+  "crossref_title": "2023 ESC Guidelines for the management of acute coronary syndromes",
+  "crossref_year": 2023,
+  "crossref_doi": "10.1093/eurheartj/ehad191",
+  "sim": 1.0,
+  "container": "European Heart Journal",
+  "authors": [
+   [
+    "Robert A",
+    "Byrne"
+   ],
+   [
+    "Xavier",
+    "Rossello"
+   ],
+   [
+    "J J",
+    "Coughlan"
+   ],
+   [
+    "Emanuele",
+    "Barbato"
+   ],
+   [
+    "Colin",
+    "Berry"
+   ],
+   [
+    "Alaide",
+    "Chieffo"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 78,
+  "title": "Analytical validation of a high-sensitivity cardiac troponin T assay",
+  "year": 2009,
+  "doi": "10.1373/clinchem.2009.132654",
+  "first_author": "Giannitsis",
+  "crossref_title": "Analytical Validation of a High-Sensitivity Cardiac Troponin T Assay",
+  "crossref_year": 2010,
+  "crossref_doi": "10.1373/clinchem.2009.132654",
+  "sim": 1.0,
+  "container": "Clinical Chemistry",
+  "authors": [
+   [
+    "Evangelos",
+    "Giannitsis"
+   ],
+   [
+    "Kerstin",
+    "Kurz"
+   ],
+   [
+    "Klaus",
+    "Hallermayer"
+   ],
+   [
+    "Jochen",
+    "Jarausch"
+   ],
+   [
+    "Allan S",
+    "Jaffe"
+   ],
+   [
+    "Hugo A",
+    "Katus"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 79,
+  "title": "Probable inference, the law of succession, and statistical inference",
+  "year": 1927,
+  "doi": "10.1080/01621459.1927.10502953",
+  "first_author": "Wilson",
+  "crossref_title": "Probable Inference, the Law of Succession, and Statistical Inference",
+  "crossref_year": 1927,
+  "crossref_doi": "10.1080/01621459.1927.10502953",
+  "sim": 1.0,
+  "container": "Journal of the American Statistical Association",
+  "authors": [
+   [
+    "Edwin B.",
+    "Wilson"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ },
+ {
+  "n": 80,
+  "title": "The use of confidence or fiducial limits illustrated in the case of the binomial",
+  "year": 1934,
+  "doi": "10.1093/biomet/26.4.404",
+  "first_author": "Clopper",
+  "crossref_title": "THE USE OF CONFIDENCE OR FIDUCIAL LIMITS ILLUSTRATED IN THE CASE OF THE BINOMIAL",
+  "crossref_year": 1934,
+  "crossref_doi": "10.1093/biomet/26.4.404",
+  "sim": 1.0,
+  "container": "Biometrika",
+  "authors": [
+   [
+    "C. J.",
+    "CLOPPER"
+   ],
+   [
+    "E. S.",
+    "PEARSON"
+   ]
+  ],
+  "author_ok": true,
+  "ok": true
+ }
+]

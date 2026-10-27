@@ -1,0 +1,350 @@
+{
+ "10.1093/eurheartj/ehaf142": {
+  "title": "Acute myocardial infarction diagnosis: impact of artificial intelligence-powered ECG interpretation",
+  "journal": "European Heart Journal",
+  "year": 2025,
+  "volume": "46",
+  "issue": "20",
+  "page": "1930-1932",
+  "article": null,
+  "authors": [
+   [
+    "I Min",
+    "Chiu"
+   ],
+   [
+    "David",
+    "Ouyang"
+   ]
+  ],
+  "abstract": ""
+ },
+ "10.3390/diagnostics15172219": {
+  "title": "Interpretable Prediction of Myocardial Infarction Using Explainable Boosting Machines: A Biomarker-Based Machine Learning Approach",
+  "journal": "Diagnostics",
+  "year": 2025,
+  "volume": "15",
+  "issue": "17",
+  "page": "2219",
+  "article": null,
+  "authors": [
+   [
+    "Zeynep",
+    "Kucukakcali"
+   ],
+   [
+    "Ipek Balikci",
+    "Cicek"
+   ],
+   [
+    "Sami",
+    "Akbulut"
+   ]
+  ],
+  "abstract": "Background/Objectives: This study aims to build an interpretable and accurate predictive model for myocardial infarction (MI) using Explainable Boosting Machines (EBM), a state-of-the-art Explainable Artificial Intelligence (XAI) technique. The objective is to identify and rank clinically relevant biomarkers that contribute to MI diagnosis while maintaining transparency to support clinical decision making. Methods: The dataset comprises 1319 patient records collected in 2018 from a cardiology center in the Erbil region of Iraq. Each record includes eight routinely measured clinical and biochemical features, such as troponin, CK-MB, and glucose levels, and a binary outcome variable indicating the presence or absence of MI. After preprocessing (e.g., one-hot encoding, normalization), the EBM model was trained using 80% of the data and tested on the remaining 20%. Model performance was evaluated using standard metrics including AUC, accuracy, sensitivity, specificity, F1 score, and Matthews correlation coefficient. Feature importance was assessed to identify key predictors. Partial dependence analyses provided insights into how each variable affected model predictions. Results: The EBM model demonstrated excellent diagnostic performance, achieving an AUC of 0.980, an accuracy of 96.6%, sensitivity of 96.8%, and specificity of 96.2%. Troponin and CK-MB were identified as the top predictors, confirming their established clinical relevance in MI diagnosis. In contrast, demographic and hemodynamic variables such as age and blood pressure contributed minimally. Partial dependence plots revealed non-linear effects of key biomarkers. Local explanation plots demonstrated the model’s ability to make confident, interpretable predictions for both positive and negative cases. Conclusions: The findings highlight the potential of EBM as a clinically useful and ethical AI approach for MI diagnosis. By combining high predictive accuracy with transparency, EBM supports biomarker prioritization and clinical risk stratification, thus aligning with precision medicine and responsible AI principles. Future research should validate the model on multi-center datasets and explore additional features for broader clinical use."
+ },
+ "10.1016/j.bspc.2026.109541": {
+  "title": "Deep learning-based myocardial infarction detection and localization via multi-lead ECG and constant-Q nonstationary gabor transform",
+  "journal": "Biomedical Signal Processing and Control",
+  "year": 2026,
+  "volume": "116",
+  "issue": null,
+  "page": "109541",
+  "article": "109541",
+  "authors": [
+   [
+    "Ahmed S.",
+    "Eltrass"
+   ],
+   [
+    "Nahla A.",
+    "Elborae"
+   ],
+   [
+    "Hassan M.",
+    "Elkamchouchi"
+   ]
+  ],
+  "abstract": ""
+ },
+ "10.3390/diagnostics16132061": {
+  "title": "Source-Only Transportability of Engineered ECG Features for Healthy-Versus-Myocardial Infarction Classification",
+  "journal": "Diagnostics",
+  "year": 2026,
+  "volume": "16",
+  "issue": "13",
+  "page": "2061",
+  "article": null,
+  "authors": [
+   [
+    "Fatih",
+    "Aydın"
+   ],
+   [
+    "Sefer",
+    "Usta"
+   ],
+   [
+    "Ezgi",
+    "Kalaycıoğlu"
+   ],
+   [
+    "Onder",
+    "Aydemir"
+   ]
+  ],
+  "abstract": "Background/Objectives: Electrocardiogram (ECG)-based myocardial infarction (MI) classifiers may achieve high internal validation performance but show reduced performance when applied to data from another source. The task is a controlled binary healthy-versus-MI benchmark and is not intended to represent real-world chest-pain triage or autonomous clinical deployment. This study evaluated the source-only transportability of engineered 12-lead ECG feature families for binary healthy-versus-MI classification across a cardiologist-annotated hospital dataset and PTB-XL. Methods: The hospital dataset contained 1749 usable recordings from 1434 patients after excluding 206 broken-data records, with 1550 Healthy and 199 MI recordings. The matched PTB-XL binary subset contained 14,982 recordings from 13,436 patients, with 9513 Healthy and 5469 MI recordings. Eleven engineered feature families and five classifier families were compared under preprocessing, patient-aware splitting, source-validation hyperparameter and threshold selection, and bootstrap uncertainty estimation. The reported leading rows are the highest observed configurations in a prespecified benchmark grid, not locked clinical models. Results: Internal performance was higher than strict source-only transfer performance. In the hospital dataset, fiducial interval descriptors with Extra Trees reached balanced accuracy 0.775 and receiver operating characteristic area under the curve (ROC-AUC) 0.855. In PTB-XL, a broad hybrid feature bank with ST-segment information and XGBoost reached a balanced accuracy of 0.898 and ROC-AUC of 0.965. Strict source-only transfer was weaker and asymmetric: the highest observed balanced accuracy was 0.580 for hospital-to-PTB-XL transfer and 0.632 for PTB-XL-to-hospital transfer. Ranking transportability and operating-threshold transportability diverged, most notably for hospital-to-PTB-XL transfer, where ROC-AUC was 0.774 but sensitivity at the source-selected threshold was only 0.164. A secondary target-threshold analysis improved balanced accuracy to 0.682 and 0.640, respectively, but this used target labels only to re-select the operating threshold and was not a strict source-only result. Conclusions: The findings indicate a transportability gap: PTB-XL-to-hospital transfer was more balanced than hospital-to-PTB-XL transfer, but neither direction achieved performance comparable to internal validation. The source-only operating-point results are not acceptable for clinical MI screening or decision support without additional calibration, target-setting validation, and prospective assessment."
+ },
+ "10.3390/jpm16040174": {
+  "title": "Detecting Occlusion Myocardial Infarction with an AI-Powered ECG Model: A Retrospective Cohort Study",
+  "journal": "Journal of Personalized Medicine",
+  "year": 2026,
+  "volume": "16",
+  "issue": "4",
+  "page": "174",
+  "article": null,
+  "authors": [
+   [
+    "Mark B.",
+    "Hellerman"
+   ],
+   [
+    "Cassie",
+    "Wang"
+   ],
+   [
+    "David T.",
+    "Zhang"
+   ],
+   [
+    "Andreas P.",
+    "Kalogeropoulos"
+   ],
+   [
+    "Hal A.",
+    "Skopicki"
+   ]
+  ],
+  "abstract": "Background: Patients with NSTEMI who are found with a totally occluded culprit vessel on coronary angiography are at higher risk of mortality and major adverse cardiac events. Artificial intelligence (AI) models can help identify this subgroup of NSTEMIs. Objectives: The purpose of this study was to examine the performance of an AI model in identifying patients with total thrombotic coronary artery occlusion myocardial infarctions (OMIs) using a single 12-lead ECG as input. Methods: In this retrospective cohort study, 12-lead ECGs corresponding to patients with suspected OMI were analyzed by an AI model. Confirmation of OMI was based on angiographic evidence of acute culprit coronary artery stenosis. Results: Over a one-year period, emergency physicians at our hospital identified 474 patients with suspected OMI, of whom 88 met STEMI criteria. Out of the 142 angiographically confirmed OMIs, the AI model correctly identified 115 (81%) with high confidence, corresponding to an accuracy of 89.4%, sensitivity of 90.0%, specificity of 93.2%, positive predictive value (PPV) of 84.6%, and negative predictive value (NPV) of 91.4%. Out of the 74 angiographically confirmed OMIs that did not meet STEMI criteria, the AI model correctly identified 49 (66%) with high confidence, corresponding to an accuracy of 87.9%, sensitivity of 66.2%, specificity of 93.4%, PPV of 72.1%, and NPV of 91.5%. Out of the 68 angiographically confirmed OMIs that met STEMI criteria, the AI model correctly identified 66 (97%) with high confidence, corresponding to an accuracy of 95.5%, sensitivity of 97.1%, specificity of 90.0%, PPV of 97.1%, and NPV of 90.0%. Conclusions: The AI model examined in this study outperformed the STEMI criteria for the identification of OMI with respect to accuracy, sensitivity, specificity, PPV, and NPV and accurately identified a significant portion of NSTEMIs found to have total thrombotic coronary artery occlusion."
+ },
+ "10.1038/s41598-026-58956-3": {
+  "title": "Precise ECG diagnosis and validation of educational utility for acute myocardial infarction using deep learning and explainable artificial intelligence",
+  "journal": "Scientific Reports",
+  "year": 2026,
+  "volume": "16",
+  "issue": "1",
+  "page": null,
+  "article": "30790",
+  "authors": [
+   [
+    "Jongkwang",
+    "Kim"
+   ],
+   [
+    "Byungeun",
+    "Shon"
+   ],
+   [
+    "Yongjin",
+    "Kim"
+   ],
+   [
+    "Nayeon",
+    "Kim"
+   ],
+   [
+    "Yejin",
+    "Jang"
+   ],
+   [
+    "Jeongmin",
+    "Lee"
+   ],
+   [
+    "Seong-Mi",
+    "Yoon"
+   ],
+   [
+    "Dong Heon",
+    "Yang"
+   ],
+   [
+    "Namkyun",
+    "Kim"
+   ],
+   [
+    "Sungmoon",
+    "Jeong"
+   ]
+  ],
+  "abstract": ""
+ },
+ "10.2196/75910": {
+  "title": "Comparative Diagnostic Performance of a Multimodal Large Language Model Versus a Dedicated Electrocardiogram AI in Detecting Myocardial Infarction From Electrocardiogram Images: Comparative Study",
+  "journal": "JMIR AI",
+  "year": 2025,
+  "volume": "4",
+  "issue": null,
+  "page": "e75910-e75910",
+  "article": "v4i10e75910",
+  "authors": [
+   [
+    "Haemin",
+    "Lee"
+   ],
+   [
+    "Sooyoung",
+    "Yoo"
+   ],
+   [
+    "Joonghee",
+    "Kim"
+   ],
+   [
+    "Youngjin",
+    "Cho"
+   ],
+   [
+    "Dongbum",
+    "Suh"
+   ],
+   [
+    "Keehyuck",
+    "Lee"
+   ]
+  ],
+  "abstract": "Abstract Background Accurate and timely electrocardiogram (ECG) interpretation is critical for diagnosing myocardial infarction (MI) in emergency settings. Recent advances in multimodal large language models (LLMs), such as ChatGPT (OpenAI) and Gemini (Google DeepMind), have shown promise in clinical interpretation for medical imaging. However, whether these models analyze waveform patterns or simply rely on text cues remains unclear, underscoring the need for direct comparisons with dedicated ECG artificial intelligence (AI) tools. Objective This study aimed to evaluate the diagnostic performance of ChatGPT and Gemini, a general-purpose LLM, in detecting MI from ECG images and to compare its performance with that of ECG Buddy (ARPI Inc) , a dedicated AI-driven ECG analysis tool. Methods This retrospective study evaluated and compared AI models for classifying MI using a publicly available 12-lead ECG dataset from Pakistan, categorizing cases into MI-positive (239 images) and MI-negative (689 images). ChatGPT (GPT-4o, version November 20, 2024) and Gemini (Gemini 2.5 pro) were queried with 5 MI confidence options, whereas ECG Buddy for Microsoft Windows analyzed the images based on ST-elevation MI, acute coronary syndrome, and myocardial injury biomarkers. Results Among 928 ECG recordings (239/928, 25.8% MI-positive), ChatGPT achieved an accuracy of 65.95% (95% CI 62.80‐69.00), area under the curve (AUC) of 57.34% (95% CI 53.44‐61.24), sensitivity of 36.40% (95% CI 30.30‐42.85), and specificity of 76.2% (95% CI 72.84‐79.33). With Gemini 2.5 Pro, accuracy dropped to 29.63% (95% CI 26.71‐32.69), AUC to 51.63% (95% CI 50.22‐53.04), and sensitivity rose to 97.07% (95% CI 94.06‐98.81), but specificity fell sharply to 6.24% (95% CI 4.55‐8.31). However, ECG Buddy reached an accuracy of 96.98% (95% CI 95.67‐97.99), AUC of 98.8% (95% CI 98.3‐99.43), sensitivity of 96.65% (95% CI 93.51‐98.54), and specificity of 97.10% (95% CI 95.55‐98.22). DeLong test confirmed that ECG Buddy significantly outperformed ChatGPT (all P &lt;.001). In a qualitative error analysis of LLMs’ diagnostic explanations, GPT-4o produced fully accurate explanations in only 5% of cases (2/40), was partially accurate in 38% (15/40), and completely inaccurate in 58% (23/40). By contrast, Gemini 2.5 Pro yielded fully accurate explanations in 32% of cases (12/37), was partially accurate in 14% (5/37), and completely inaccurate in 54% (20/37). Conclusions LLMs, such as ChatGPT and Gemini, underperform relative to specialized tools such as ECG Buddy in ECG image–based MI diagnosis. Further training may improve LLMs; however, domain-specific AI remains essential for clinical accuracy. The high performance of ECG Buddy underscores the importance of specialized models for achieving reliable and robust diagnostic outcomes."
+ },
+ "10.1515/cclm-2025-0013": {
+  "title": "High sensitivity cardiac troponin assays, rapid myocardial infarction rule-out algorithms, and assay performance",
+  "journal": "Clinical Chemistry and Laboratory Medicine (CCLM)",
+  "year": 2025,
+  "volume": "63",
+  "issue": "3",
+  "page": "462-464",
+  "article": null,
+  "authors": [
+   [
+    "Karl J.",
+    "Lackner"
+   ]
+  ],
+  "abstract": ""
+ },
+ "10.1080/00015385.2026.2714595": {
+  "title": "Performance of a high-sensitivity troponin-based early rule-out pathway for suspected myocardial infarction",
+  "journal": "Acta Cardiologica",
+  "year": 2026,
+  "volume": null,
+  "issue": null,
+  "page": "1-8",
+  "article": null,
+  "authors": [
+   [
+    "Nicholas",
+    "Seton"
+   ],
+   [
+    "Maria Gabriela",
+    "Matta"
+   ],
+   [
+    "Shobiga",
+    "Sarvananda"
+   ],
+   [
+    "Nivan",
+    "Kaya"
+   ],
+   [
+    "Dylan",
+    "Young"
+   ],
+   [
+    "Rhiannon",
+    "Matthews"
+   ],
+   [
+    "Rohan",
+    "Jayasinghe"
+   ]
+  ],
+  "abstract": ""
+ },
+ "10.1093/ehjdh/ztaf125": {
+  "title": "Multimodal deep learning for acute myocardial infarction detection from 12-lead electrocardiogram: a multi-centre study with cross-hospital validation",
+  "journal": "European Heart Journal - Digital Health",
+  "year": 2025,
+  "volume": "7",
+  "issue": "2",
+  "page": null,
+  "article": "ztaf125",
+  "authors": [
+   [
+    "Vibha",
+    "Gupta"
+   ],
+   [
+    "Lukas",
+    "Hilgendorf"
+   ],
+   [
+    "Erik",
+    "Andersson"
+   ],
+   [
+    "Antros",
+    "Louca"
+   ],
+   [
+    "Arman",
+    "Shahmari"
+   ],
+   [
+    "Alfred",
+    "Hjalmarsson"
+   ],
+   [
+    "Rajkumar",
+    "Saini"
+   ],
+   [
+    "Carlo",
+    "Pirazzi"
+   ],
+   [
+    "Monér",
+    "Alchay"
+   ],
+   [
+    "Araz",
+    "Rawshani"
+   ]
+  ],
+  "abstract": "Abstract Aims Acute myocardial infarction (AMI) remains a leading global cause of mortality, where timely diagnosis is critical to enable early intervention. The 12-lead electrocardiogram (ECG) is a critical tool for AMI detection. While deep learning (DL) models show promise for automated ECG analysis, most prior studies rely on small, curated datasets with limited external validation, limiting their clinical applicability. Methods and results We developed a multimodal DL model (Conv-BiLSTM-Attn) integrating convolutional and recurrent neural networks with an attention mechanism. Using a large, multi-centre dataset of 145 656 ECGs from 96 813 patients across three Swedish hospitals. We trained the model to detect AMI using raw 12-lead ECG signals and demographic inputs (age, sex). Model performance was evaluated under two external validation protocols: generalization across hospitals (GAH) and leave-one-hospital-out (LOHO). The model achieved an area under the receiver operating characteristic (AUROC) of 0.848 (95% CI: 0.84–0.86) and an area under the precision-recall (AUPRC) of 0.456, reflecting class imbalance (∼6–10% AMI prevalence) under the GAH protocol. Subgroup AUROCs ranged from 0.79 to 0.92 across age and sex groups. At the Youden-optimized threshold (0.439), the model showed sensitivity of 0.736, specificity of 0.793, negative predictive value of 0.976, and weighted F1-score of 0.837. Under the LOHO protocol, AUROCs ranged from 0.801–0.849. At Youden thresholds (0.34–0.50), sensitivity ranged from 0.671 to 0.776 and specificity from 0.651 to 0.801, confirming generalizability across sites. Conv-BiLSTM-Attn outperformed benchmark models, with Score-CAM highlighting relevant ST–T segments. Conclusion This DL model can support accurate and generalizable AMI detection from routine ECGs, with the Conv-BiLSTM-Attn architecture outperforming current benchmark approaches."
+ },
+ "10.1016/j.compbiomed.2025.110196": {
+  "title": "Enhancing clinical decision support with physiological waveforms — A multimodal benchmark in emergency care",
+  "journal": "Computers in Biology and Medicine",
+  "year": 2025,
+  "volume": "192",
+  "issue": null,
+  "page": "110196",
+  "article": "110196",
+  "authors": [
+   [
+    "Juan Miguel Lopez",
+    "Alcaraz"
+   ],
+   [
+    "Hjalmar",
+    "Bouma"
+   ],
+   [
+    "Nils",
+    "Strodthoff"
+   ]
+  ],
+  "abstract": ""
+ }
+}

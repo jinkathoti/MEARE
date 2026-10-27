@@ -1,0 +1,189 @@
+{
+ "RF, all 8 variables": {
+  "cv_auc": 0.9966235174568508,
+  "test_auc": 0.9970951343500363,
+  "threshold": 0.65,
+  "test_acc": 0.9810606060606061
+ },
+ "RF, troponin + CK-MB": {
+  "cv_auc": 0.9961400794734128,
+  "test_auc": 0.989318566932946,
+  "threshold": 0.6375,
+  "test_acc": 0.9810606060606061
+ },
+ "Logistic, log troponin + log CK-MB": {
+  "cv_auc": 0.9704894288227622,
+  "test_auc": 0.9711934156378601,
+  "threshold": 0.6435014065643039,
+  "test_acc": 0.9204545454545454
+ },
+ "RF, 6 non-biomarker variables": {
+  "cv_auc": 0.6039221039221039,
+  "test_auc": 0.5948922778988138,
+  "threshold": 0.5525,
+  "test_acc": 0.6136363636363636
+ },
+ "Two-threshold rule": {
+  "test_acc": 0.9810606060606061
+ },
+ "full_vs": {
+  "RF, troponin + CK-MB": {
+   "auc": {
+    "diff": 0.007776567417090319,
+    "ci": [
+     -0.0004271723993673731,
+     0.01995106612731891
+    ],
+    "p": 0.126
+   },
+   "mcnemar": {
+    "only_a_correct": 0,
+    "only_b_correct": 0,
+    "p": 1.0
+   }
+  },
+  "Logistic, log troponin + log CK-MB": {
+   "auc": {
+    "diff": 0.02590171871217617,
+    "ci": [
+     0.011479867270731216,
+     0.04471070554993237
+    ],
+    "p": 0.0
+   },
+   "mcnemar": {
+    "only_a_correct": 17,
+    "only_b_correct": 1,
+    "p": 0.00014495849609375
+   }
+  },
+  "RF, 6 non-biomarker variables": {
+   "auc": {
+    "diff": 0.40220285645122245,
+    "ci": [
+     0.32991625393898266,
+     0.4729652984789419
+    ],
+    "p": 0.0
+   },
+   "mcnemar": {
+    "only_a_correct": 101,
+    "only_b_correct": 4,
+    "p": 2.4520045187848927e-25
+   }
+  },
+  "Two-threshold rule": {
+   "mcnemar": {
+    "only_a_correct": 0,
+    "only_b_correct": 0,
+    "p": 1.0
+   }
+  }
+ },
+ "importance": {
+  "features": [
+   "Age (years)",
+   "Sex (1 = Male, 0 = Female)",
+   "Heart rate (bpm)",
+   "Systolic BP (mmHg)",
+   "Diastolic BP (mmHg)",
+   "Blood glucose (mg/dL)",
+   "CK-MB (ng/mL)",
+   "Troponin (ng/mL)"
+  ],
+  "perm_mean": [
+   0.0002,
+   0.0015,
+   0.0001,
+   0.0002,
+   0.0002,
+   0.0,
+   0.1164,
+   0.359
+  ],
+  "perm_sd": [
+   0.0005,
+   0.0007,
+   0.0005,
+   0.0005,
+   0.0011,
+   0.001,
+   0.0183,
+   0.0275
+  ],
+  "perm_rank_per_fold": [
+   [
+    4,
+    3,
+    6,
+    8,
+    7,
+    5,
+    2,
+    1
+   ],
+   [
+    5,
+    3,
+    7,
+    8,
+    4,
+    6,
+    2,
+    1
+   ],
+   [
+    6,
+    7,
+    5,
+    8,
+    3,
+    4,
+    2,
+    1
+   ],
+   [
+    4,
+    3,
+    8,
+    5,
+    6,
+    7,
+    2,
+    1
+   ],
+   [
+    6,
+    3,
+    5,
+    4,
+    7,
+    8,
+    2,
+    1
+   ]
+  ],
+  "kendall_w": 0.7047619047619048,
+  "top2_every_fold": true,
+  "drop_column_auc_loss": {
+   "age": 0.000252146085479521,
+   "gender": 0.0018560226893560294,
+   "impluse": 0.0008853550520218079,
+   "pressurehight": 0.00014597931264603847,
+   "pressurelow": 0.0006237297903965988,
+   "glucose": 0.00030522947189615124,
+   "kcm": 0.09658522158522154,
+   "troponin": 0.22028467861801193
+  },
+  "impurity": [
+   0.0519,
+   0.0064,
+   0.0197,
+   0.0228,
+   0.0205,
+   0.024,
+   0.2512,
+   0.6035
+  ]
+ }
+}
